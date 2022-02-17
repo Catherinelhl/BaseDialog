@@ -1,4 +1,4 @@
-package com.by.basedialog.utils
+package com.by.dialog.utils
 
 import android.app.Activity
 import android.app.ActivityManager

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="colorPrimary">#ffffff</color>
+    <color name="colorPrimaryDark">#f3f3f3</color>
+    <color name="colorAccent">#ff3b6a</color>
+    <color name="colorAccent_60">#99ff3b6a</color>
+    <color name="fh_efefef">#efefef</color>
+    <color name="fh_00b388">#00b388</color>
+
+    <color name="transparent">#00000000</color>
+
+    <color name="color_black">#000000</color>
+    <color name="color_black_5">#0d000000</color>
+    <color name="color_black_10">#1A000000</color>
+    <color name="color_black_20">#33000000</color>
+    <color name="color_black_30">#4d000000</color>
+    <color name="color_black_40">#66000000</color>
+    <color name="color_black_50">#80000000</color>
+    <color name="color_black_60">#99000000</color>
+    <color name="color_black_70">#B3000000</color>
+    <color name="color_black_80">#cc000000</color>
+    <color name="color_black_85">#d9000000</color>
+    <color name="color_black_90">#e6000000</color>
+
+    <!--    状态按钮 按下 皆为 60% 不透明-->
+    <color name="color_theme_red">#FF3B6A</color>
+    <color name="color_theme_grey">#575759</color>
+
+    <color name="fh_fa275a">#fa275a</color>
+    <color name="btn_bg_red_normal">#ff3b6a</color>
+    <color name="btn_bg_red_normal_press">#99FF3B6A</color>
+    <color name="btn_bg_red_selected">#fa275a</color>
+    <color name="btn_bg_red_disabled">#caccca</color>
+    <color name="btn_bg_red_default">#66FF3B6A</color>
+    <color name="color_333333">#333333</color>
+
+
+    <color name="transparent_white">#00FFFFFF</color>
+    <color name="red">#ffff0000</color>
+    <color name="red_50">#50ff0000</color>
+    <color name="red_30">#30ff0000</color>
+    <color name="transparent_01">#01000000</color>
+    <color name="transparent_10">#10000000</color>
+
+    <color name="white_40">#66ffffff</color>
+    <color name="white_95">#F2ffffff</color>
+    <color name="white_80">#ccffffff</color>
+    <color name="white_20">#33ffffff</color>
+
+    <color name="gray_33">#333333</color>
+    <color name="gray_44">#444444</color>
+    <color name="gray_55">#555555</color>
+    <color name="gray_66">#666666</color>
+    <color name="gray_77">#777777</color>
+    <color name="gray_88">#888888</color>
+    <color name="gray_99">#999999</color>
+    <color name="gray_cc">#cccccc</color>
+    <color name="gray_e4">#E4E4E4</color>
+    <color name="gray_ee">#eeeeee</color>
+</resources>
