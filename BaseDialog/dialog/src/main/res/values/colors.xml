@@ -64,4 +64,10 @@
     <color name="gray_cc">#cccccc</color>
     <color name="gray_e4">#E4E4E4</color>
     <color name="gray_ee">#eeeeee</color>
+
+
+    <color name="gradient_start_color">#4F4FE3</color>
+    <color name="gradient_start_color_5">#0D4F4FE3</color>
+    <color name="gradient_end_color">#4293FF</color>
+    <color name="gradient_end_color_5">#0d4293FF</color>
 </resources>

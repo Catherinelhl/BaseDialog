@@ -1,16 +1,17 @@
 package com.by.basedialog
 
-import android.databinding.DataBindingUtil
-import android.databinding.ViewDataBinding
 import android.graphics.Color
 import android.graphics.Point
 import android.graphics.drawable.ColorDrawable
 import android.os.Bundle
-import android.support.v4.app.FragmentActivity
-import android.support.v4.app.FragmentManager
-import android.support.v7.app.AppCompatDialogFragment
 import android.view.*
-import com.by.basedialog.utils.ActivityUtil
+import androidx.appcompat.app.AppCompatDialogFragment
+import androidx.databinding.DataBindingUtil
+import androidx.databinding.ViewDataBinding
+import androidx.fragment.app.FragmentActivity
+import androidx.fragment.app.FragmentManager
+import com.by.dialog.R
+import com.by.dialog.utils.ActivityUtil
 
 /**
 +--------------------------------------+
